@@ -4,6 +4,7 @@
 # speaker-verification
 
 **This is a project I worked on as the primary developer and technical lead to integrate with Doubtfire-LMS.**
+
 **See commits for individual contributions.**
 
 This project aims to address the issues concerning contract cheating within online learning management platforms as educational institutions have struggled to monitor and evaluate online activity.
