@@ -3,6 +3,9 @@
 
 # speaker-verification
 
+**This is a project I worked on as the primary developer and technical lead to integrate with Doubtfire-LMS.**
+**See commits for individual contributions.**
+
 This project aims to address the issues concerning contract cheating within online learning management platforms as educational institutions have struggled to monitor and evaluate online activity.
 The Speaker Verification project aims to utilize machine learning technologies to evaluate audio files submitted from a user and obtain a confidence score of how likely it is that the voice in the recording is the user in question.
 
